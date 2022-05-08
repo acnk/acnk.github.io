@@ -1,0 +1,299 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bground{
+    width: 99.99%;
+    height: 99vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/aoshima-cats.webp);
+    background-position: center;
+    background-size: cover;
+}
+.meoww{
+    color: #ff0000;
+    position: relative;
+    top: 280px;
+    left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    opacity: 80%;
+}
+.choice{
+    color: olivedrab;
+    position: relative;
+    top: -100px;
+    left: 30px;
+    font-family: serif;
+}
+.dif{
+    color: white;
+    position:relative;
+    top:240px;
+    left: 320px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    opacity: 70%;
+}
+.h1{
+    color: azure;
+    position: relative;
+    top: 350px;
+    opacity: 70%;
+    
+}
+.card1{
+    position: relative;
+    left: 1100px;
+    top: -90px;
+    width: 300px;
+    height: 360px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(images/manha.jpg);
+    background-position: center;
+    opacity: 70%;
+
+}
+.card2{
+    position: relative;
+    left: 1150px;
+    top: -90px;
+    width: 300px;
+    height: 360px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(images/05BRONXCOV1-superJumbo.webp);
+    background-position: center;
+    opacity: 70%;
+}
+.card3{
+    position: relative;
+    left: 449px;
+    top: 340px;
+    width: 300px;
+    height: 360px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(images/post-158586.webp);
+    background-position: center;
+    opacity: 70%;
+}
+.card4{
+    position: relative;
+    left: 500px;
+    top: 340px;
+    width: 300px;
+    height: 360px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(images/brooklyn-bridge-e.jpg);
+    background-position: center;
+    opacity: 70%;
+}
+
+.card:hover{
+    transform: translateY(-10px);;
+}
+.card{
+    transition: 1s;
+}
+.h4{
+    color: aliceblue;
+}
+.text{
+    color: blanchedalmond;
+    position: relative;
+    top: 250px;
+    left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 70%;
+}
+.kBG{
+    width: 99.99%;
+    height: 99vh;
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/emstate.jpg);
+}
+.mht{
+    position: relative;
+    top: -650px;
+    left: 40px;
+    size: 0px;
+    height: 0px;
+    width: 0px;
+    opacity: 69%;
+    
+}
+.Manhattan{
+    position: relative;
+    left: 50px;
+    top: -65px;
+    font-size: 10px;
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.head1{
+    position: relative;
+    left: 20px;
+    top: 130px;
+    font-size: 60px;
+    color: #444;
+}
+.mcat{
+    position: relative;
+    top: 28px;
+    left: 1000px;
+    margin-top: -500px;
+}
+button{
+    width: 180px;
+    color: blanchedalmond;
+    font-size: 20px;
+    padding: 12px;
+    background: white;
+    border: 0;
+    border-radius: 20px;
+    outline: none;
+    margin-top: 30px;
+}
+.button:hover{
+    transform: translate(-10px);
+}
+.head2{
+    position: relative;
+    left: 60px;
+    top: 130px;
+    font-size: 80px;
+    color: darkred;
+}
+.BRX{
+    width: 99.99%;
+    height: 99vh;
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/brx.jpg);
+}
+.Bronx{
+    position: relative;
+    left: 50px;
+    top: -65px;
+    font-size: 10px;
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.brx{
+    position: relative;
+    top: 210px;
+    left: 35px;
+    size: 0px;
+    height: 0px;
+    width: 0px;
+    
+}
+.Bronx{
+    position: relative;
+    font-size: 10px;
+    top: -61px;
+}
+.brxcats{
+    position: relative;
+    top: -450px;
+    left: 750px;
+    opacity: 70%;
+}
+.QNS{
+    width: 99.99%;
+    height: 99vh;
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/qns.jpeg);
+}
+.head3{
+    position: relative;
+    top: 50px;
+    left: 20px;
+    font-size: 80px;
+    color: darkslategrey;
+}
+.qns{
+    position: relative;
+    top: 200px;
+    left: 35px;
+}
+.Queens{
+    position: relative;
+    top: -50px;
+    left: 60px;
+    color: white;
+    opacity: 75%;
+    font-size: 20px;
+}
+.Qspnx{
+    position: relative;
+    left: 760px;
+    top: -240px;
+    opacity: 80%;
+}
+.BKL{
+    width: 99.99%;
+    height: 99vh;
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(images/bkl.jpg);
+}
+.head4{
+    position: relative;
+    top: 50px;
+    left: 20px;
+    font-size: 70px;
+    color: whitesmoke;
+    opacity: 80%;
+}
+.bkl{
+    position: relative;
+    top: 200px;
+    left: 35px;
+}
+.Broklyn{
+    position: relative;
+    top: -40px;
+    left: 55px;
+    color: azure;
+}
+.BKLL{
+    position: relative;
+    left: 860px;
+    top: -340px;
+    opacity: 88%;
+}
+.LI{
+    width: 99.99%;
+    height: 99vh;
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/long\ island.jpg);
+}
+.head5{
+    position: relative;
+    font-size: 60px;
+    color: #ff0000;
+}
+
+    
+
