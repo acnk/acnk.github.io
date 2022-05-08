@@ -5,7 +5,7 @@
 .bground{
     width: 99.99%;
     height: 99vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/aoshima-cats.webp);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(acnk.github.io/mmp100/images/aoshima-cats.webp);
     background-position: center;
     background-size: cover;
 }
